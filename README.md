@@ -26,7 +26,6 @@
 - [Tính Năng](#-tính-năng)
 - [Công Nghệ](#-công-nghệ)
 - [Google Gemini AI](#-google-gemini-ai)
-- [Kiến Trúc Hệ Thống](#-kiến-trúc-hệ-thống)
 - [Cài Đặt](#-cài-đặt)
 - [Sử Dụng](#-sử-dụng)
 - [Roadmap](#-roadmap)
@@ -103,23 +102,22 @@
 - Giải thích lý do gợi ý: "Tại sao món này phù hợp với bạn" hoặc "Khung giờ này ít đông khách"  
 
 ---
-
-🏗️ Kiến Trúc Hệ Thống
+## 🏗️ Kiến Trúc Hệ Thống
 STREAMLIT UI --> AI Agent (Gemini) --> SQLite DB
 - Trang đặt bàn
 - Trang gợi ý món ăn
 - Dashboard
 
 ---
-📦 Cài Đặt
+## 📦 Cài Đặt
 1. Clone repo & tạo virtual environment
 git clone https://github.com/username/LotteriaAI.git
 cd LotteriaAI
 python -m venv venv
 
-# Windows
+- Windows:
 venv\Scripts\activate
-# Linux/Mac
+- Linux/Mac:
 source venv/bin/activate
 
 2. Cài dependencies
@@ -135,29 +133,29 @@ Truy cập: http://localhost:8501
 
 ---
 
-🚀 Sử Dụng
+## 🚀 Sử Dụng
 
-Đặt bàn: chọn chi nhánh, số lượng khách, khung giờ
+- Đặt bàn: chọn chi nhánh, số lượng khách, khung giờ
 
-Gợi ý món ăn: AI đề xuất combo và món phù hợp
+- Gợi ý món ăn: AI đề xuất combo và món phù hợp
 
-
----
-🎓 Roadmap
-
-SMS/Email thông báo khi đặt bàn thành công
-
-Mobile App (React Native)
-
-Multi-language support
 
 ---
+## 🎓 Roadmap
 
-🤝 Đóng Góp
+- SMS/Email thông báo khi đặt bàn thành công
 
-Fork repo → tạo branch → commit → push → pull request
+- Mobile App (React Native)
+
+- Multi-language support
 
 ---
-📄 License
 
-MIT License
+## 🤝 Đóng Góp
+
+- Fork repo → tạo branch → commit → push → pull request
+
+---
+## 📄 License
+
+- MIT License
