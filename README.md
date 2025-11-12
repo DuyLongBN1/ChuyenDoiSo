@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🎯 LotteriaAI
+<img src="lotteria.png" alt="Lotteria" width="150" />
 
 ### *AI Agent Đặt Bàn & Gợi Ý Món Ăn Tự Động Cho Chuỗi Nhà Hàng Lotteria*
 
@@ -9,8 +10,6 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3.x-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-<img src="lotteria.png" alt="Lotteria" width="150" />
 
 <p align="center">
   <img src="logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
