@@ -12,6 +12,11 @@
 
 <img src="lotteria.png" alt="Lotteria" width="150" />
 
+<p align="center">
+  <img src="logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  <img src="LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
 **Sử dụng AI (Google Gemini) để quản lý đặt bàn, gợi ý món ăn dựa trên sở thích và lịch sử khách hàng.**
 
 [🚀 Demo](#-demo) • [✨ Tính Năng](#-tính-năng) • [📦 Cài Đặt](#-cài-đặt) • [📖 Tài Liệu](#-tài-liệu) • [🤝 Đóng Góp](#-đóng-góp)
